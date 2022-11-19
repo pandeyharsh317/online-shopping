@@ -1,0 +1,106 @@
+.pro li
+{
+  list-style-type: none;
+}
+.email{
+  height: 35px;
+  width: 400px;
+  border: 1px solid white;
+  color: white;
+  font-size: 3px solid;
+  background-color:#dc3545;
+}
+.proleft
+{
+list-style: none;
+text-align: left;
+}
+
+.btn1
+{
+  height: 35px;
+  width: 200px;
+  border: 1px solid white;
+  background-color: white;
+}
+.check
+{
+ color: chartreuse; 
+}
+.mrp1
+{
+  height: 300px;
+  width: 220px;
+  border: double;
+  border-radius: 10px ;
+  background-color: white;
+  margin-left: 265px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+
+}
+.mrp2
+{
+  height: 300px;
+  width: 220px;
+  border: double;
+  border-radius: 10px ;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.mrp3
+{
+  height: 300px;
+  width: 220px;
+  border: double;
+  border-radius: 10px ;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.mrp4
+{
+  height: 300px;
+  width: 220px;
+  border: double;
+  border-radius: 10px ;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+
+.srh
+{
+  height: 35px;
+  width: 300px;
+  border: 2px solid white;
+}
+.srh1
+{
+  height: 35px;
+  width: 50px;
+  border: 2px solid white;
+}
+.to{
+  background-color: chartreuse;
+  color: white;
+}
+.to1{
+  background-color: chartreuse;
+  height: 45px;
+  width: 110px;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+
+}
+
+.ch{
+  height: 50px;
+  width: 200px;
+}
